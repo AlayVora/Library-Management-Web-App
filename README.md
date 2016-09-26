@@ -11,7 +11,7 @@ Developed a Library Management web application using NodeJS, ExpressJS, MongoDB,
 + Command to start the server - **npm start**
 
 #Note
-Default port I have used is 5000, you can change it to whatever port is conviniet for you
+Default port I have used is 5000, you can change it to whatever port is convenient for you
 
 #Contact Details
 
